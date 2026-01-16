@@ -49,27 +49,28 @@ Participants progress through themed coding rounds until a final evaluation reve
 
 frontend/
 ├── src/
-│ ├── pages/
-│ │ ├── LandingPage.tsx
-│ │ ├── RoundSelectionPage.tsx
-│ │ ├── DemoRound1.tsx # Red Light — Green Light
-│ │ ├── DemoRound2.tsx # Broken Code Fix
-│ │ ├── DemoRound3.tsx # War of Code
-│ │ ├── DemoRound4.tsx # Morse Coding
-│ ├── components/
-│ │ ├── Header.tsx
-│ │ ├── Footer.tsx
-│ │ ├── TransitionOverlay.tsx
-│ │ ├── ProgressTracker.tsx
-│ │ └── RoundDisplay.tsx
-│ ├── hooks/
-│ └── lib/
+│   ├── pages/
+│   │   ├── LandingPage.tsx
+│   │   ├── RoundSelectionPage.tsx
+│   │   ├── DemoRound1.tsx   # Red Light — Green Light
+│   │   ├── DemoRound2.tsx   # Broken Code Fix
+│   │   ├── DemoRound3.tsx   # War of Code
+│   │   ├── DemoRound4.tsx   # Morse Coding
+│   ├── components/
+│   │   ├── Header.tsx
+│   │   ├── Footer.tsx
+│   │   ├── TransitionOverlay.tsx
+│   │   ├── ProgressTracker.tsx
+│   │   └── RoundDisplay.tsx
+│   ├── hooks/
+│   └── lib/
 │
 ├── index.css
 ├── tailwind.config.js
 
 backend/
 └── main.mo
+
 
 ---
 
